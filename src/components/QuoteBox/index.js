@@ -28,6 +28,12 @@ const QuoteBox = () => {
         <p>
           <i className="fa fa-quote-left"> </i> {currentQuote.quote}
         </p>
+        <p className="pinyin">
+          [ {currentQuote.pinyin} ]
+        </p>
+        <p className="krmean">
+          {currentQuote.krMean}
+        </p>
       </div>
       <div id="author">
         <p>- {currentQuote.author}</p>

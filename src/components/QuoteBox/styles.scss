@@ -48,7 +48,16 @@
       color: var(--background);
       font-size: $large-size;
       text-align: center;
+
+      &.krmean, &.pinyin {
+        margin-top:10px;
+        font-size: $medium-size;
+      }
+      &.krmean {
+        font-size: $medium-size;
+      }
     }
+
   }
 
   #author {
