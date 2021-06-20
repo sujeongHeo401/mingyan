@@ -26,6 +26,7 @@ const QuoteBox = () => {
   }, []);
 
   return (
+    <>
     <main id="quote-box">
       <div id="text">
         <p>
@@ -50,7 +51,12 @@ const QuoteBox = () => {
           New Quote
         </button>
       </div>
+
     </main>
+    <bottom>
+      <a href="https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=chinatancn&logNo=220734971121">来源</a>
+    </bottom>
+    </>
   );
 };
 
