@@ -1,19 +1,22 @@
 import React, { useEffect, useState } from "react";
 import { random } from "../../utils";
-import { colors, quotes } from "../../mock/data.js";
+import { colors, quotes, picture } from "../../mock/data.js";
 
 import "./styles.scss";
 
 const QuoteBox = () => {
   const [currentQuote, setCurrentQuote] = useState({});
   const [currentTweet, setCurrentTweet] = useState("");
-
+  
   const newQuote = () => {
     const randomColor = colors[Math.floor(random(0, colors.length - 1))];
     const randomQuote = quotes[Math.floor(random(0, quotes.length - 1))];
+    const randomPic = picture[Math.floor(random(0, quotes.length - 1))];
     const tweet = `https://twitter.com/intent/tweet?hashtags=quotes&text="${randomQuote.quote}" ${randomQuote.author}`;
 
     document.documentElement.style.setProperty("--background", randomColor);
+    // url('../../picture/leg.jpg')
+    // document.documentElement.style.setProperty("--background-image",url('../..'+randomPic));
     setCurrentQuote(randomQuote);
     setCurrentTweet(tweet);
   };

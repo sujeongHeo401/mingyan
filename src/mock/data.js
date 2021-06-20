@@ -5,17 +5,23 @@
  export const colors = [
     "#9b59b6",
     "#342224",
-    "#f39c12",
-    "#BC9EC1",
-    "#4db8d6",
     "#731DD8",
     "#1F2232",
-    "#e67f63",
     "#A26769",
     "#7DC95E",
-    "#E18AD4",
     "#131515",
     "#26547C"
+  ];
+  
+  export const picture = [
+    '/picture/leg.jpg',
+    '/picture/me.jpg',
+    '/picture/shit.jpg',
+    '/picture/beeer.jpg', 
+    '/picture/flower.jpg',
+    '/picture/man.jpg',
+    '/picture/yoat.jpg',
+    '/picture/mug.jpg'
   ];
   
   /**
