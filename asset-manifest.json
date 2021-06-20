@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mingyan/static/css/main.57c4c912.chunk.css",
+    "main.js": "/mingyan/static/js/main.935e69fd.chunk.js",
+    "main.js.map": "/mingyan/static/js/main.935e69fd.chunk.js.map",
+    "runtime-main.js": "/mingyan/static/js/runtime-main.dab91fbd.js",
+    "runtime-main.js.map": "/mingyan/static/js/runtime-main.dab91fbd.js.map",
+    "static/css/2.047ecc0e.chunk.css": "/mingyan/static/css/2.047ecc0e.chunk.css",
+    "static/js/2.432a1301.chunk.js": "/mingyan/static/js/2.432a1301.chunk.js",
+    "static/js/2.432a1301.chunk.js.map": "/mingyan/static/js/2.432a1301.chunk.js.map",
+    "static/js/3.f5bd3f34.chunk.js": "/mingyan/static/js/3.f5bd3f34.chunk.js",
+    "static/js/3.f5bd3f34.chunk.js.map": "/mingyan/static/js/3.f5bd3f34.chunk.js.map",
+    "index.html": "/mingyan/index.html",
+    "static/css/2.047ecc0e.chunk.css.map": "/mingyan/static/css/2.047ecc0e.chunk.css.map",
+    "static/css/main.57c4c912.chunk.css.map": "/mingyan/static/css/main.57c4c912.chunk.css.map",
+    "static/js/2.432a1301.chunk.js.LICENSE.txt": "/mingyan/static/js/2.432a1301.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/mingyan/static/media/me.84ec0851.jpg",
+    "static/media/font-awesome.min.css": "/mingyan/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab91fbd.js",
+    "static/css/2.047ecc0e.chunk.css",
+    "static/js/2.432a1301.chunk.js",
+    "static/css/main.57c4c912.chunk.css",
+    "static/js/main.935e69fd.chunk.js"
+  ]
+}
