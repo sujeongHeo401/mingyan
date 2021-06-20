@@ -53,9 +53,9 @@ const QuoteBox = () => {
       </div>
 
     </main>
-    <bottom>
+    <footer>
       <a href="https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=chinatancn&logNo=220734971121">来源</a>
-    </bottom>
+    </footer>
     </>
   );
 };
