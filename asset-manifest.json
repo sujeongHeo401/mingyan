@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mingyan/static/css/main.57c4c912.chunk.css",
-    "main.js": "/mingyan/static/js/main.935e69fd.chunk.js",
-    "main.js.map": "/mingyan/static/js/main.935e69fd.chunk.js.map",
+    "main.js": "/mingyan/static/js/main.1d6a1019.chunk.js",
+    "main.js.map": "/mingyan/static/js/main.1d6a1019.chunk.js.map",
     "runtime-main.js": "/mingyan/static/js/runtime-main.dab91fbd.js",
     "runtime-main.js.map": "/mingyan/static/js/runtime-main.dab91fbd.js.map",
     "static/css/2.047ecc0e.chunk.css": "/mingyan/static/css/2.047ecc0e.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.047ecc0e.chunk.css",
     "static/js/2.432a1301.chunk.js",
     "static/css/main.57c4c912.chunk.css",
-    "static/js/main.935e69fd.chunk.js"
+    "static/js/main.1d6a1019.chunk.js"
   ]
 }
