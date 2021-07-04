@@ -11,10 +11,11 @@ const QuoteBox = () => {
   const newQuote = () => {
     const randomColor = colors[Math.floor(random(0, colors.length - 1))];
     const randomQuote = quotes[Math.floor(random(0, quotes.length - 1))];
-    const randomPic = picture[Math.floor(random(0, quotes.length - 1))];
+    // const randomPic = picture[Math.floor(random(0, quotes.length - 1))]??'../../picture/leg.jpg';
     const tweet = `https://twitter.com/intent/tweet?hashtags=quotes&text="${randomQuote.quote}" ${randomQuote.author}`;
-
     document.documentElement.style.setProperty("--background", randomColor);
+    // document.documentElement.style.setProperty("--background-image", randomPic);
+
     // url('../../picture/leg.jpg')
     // document.documentElement.style.setProperty("--background-image",url('../..'+randomPic));
     setCurrentQuote(randomQuote);
@@ -51,11 +52,10 @@ const QuoteBox = () => {
           New Quote
         </button>
       </div>
-
     </main>
-    <footer>
+    {/* <footer>
       <a href="https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=chinatancn&logNo=220734971121">来源</a>
-    </footer>
+    </footer> */}
     </>
   );
 };

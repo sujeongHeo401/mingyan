@@ -14,14 +14,14 @@
   ];
   
   export const picture = [
-    '/picture/leg.jpg',
-    '/picture/me.jpg',
-    '/picture/shit.jpg',
-    '/picture/beeer.jpg', 
-    '/picture/flower.jpg',
-    '/picture/man.jpg',
-    '/picture/yoat.jpg',
-    '/picture/mug.jpg'
+    '../assets/picture/leg.jpg',
+    '../assets/picture/me.jpg',
+    '../assets/picture/shit.jpg',
+    '../assets/picture/beeer.jpg', 
+    '../assets/picture/flower.jpg',
+    '../assets/picture/man.jpg',
+    '../assets/picture/yoat.jpg',
+    '../assets/picture/mug.jpg'
   ];
   
   /**
@@ -76,6 +76,53 @@
         pinyin: "xìng xiāngjìn yě xí xiāng yuǎn yě",
         krMean : "인간은 선천적으로는 거의 비슷하나 후천적으로 큰 차이가 나게 된다. ",
         author: "孔子"
+      },
+      {
+        quote: " 我们下课了",
+        pinyin: "wǒmen xiàkè le",
+        krMean : "우리 수업 끝났어",
+        author: "无"
+      },
+      {
+        quote: "一会儿见~",
+        pinyin: "yíhuìér jiàn",
+        krMean : "이따 봐요~",
+        author: "无"
+      },
+      {
+        quote: "从无到有。",
+        pinyin: "cóng wú dào yǒu",
+        krMean : "무에서 유를 창조하다.",
+        author: "无"
+      },
+      {
+        quote: "我还没结束啦。",
+        pinyin: "wǒ hái méi jiéshù la",
+        krMean : "나 아직 안 끝났어.",
+        author: "无"
+      },
+      {
+        quote: "你在哪儿?",
+        pinyin: "nǐ zài nǎér",
+        krMean : "당신은 어디에 있습니까?",
+        author: "无"
+      },
+      {
+        quote: "刚才结束了",
+        pinyin: "gāngcái jiéshù le",
+        krMean : "방금 끝났어",
+        author: "无"
+      },
+      {
+        quote: "刚才结束了",
+        pinyin: "gāngcái jiéshù le",
+        krMean : "방금 끝났어",
+        author: "无"
+      },
+      {
+        quote: "抱歉抱歉",
+        pinyin: "bàoqiàn bàoqiàn",
+        krMean : "미안해 미안해",
+        author: "无"
       }
-    
   ];
