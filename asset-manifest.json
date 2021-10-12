@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mingyan/static/css/main.57c4c912.chunk.css",
-    "main.js": "/mingyan/static/js/main.6a9c4730.chunk.js",
-    "main.js.map": "/mingyan/static/js/main.6a9c4730.chunk.js.map",
-    "runtime-main.js": "/mingyan/static/js/runtime-main.dab91fbd.js",
-    "runtime-main.js.map": "/mingyan/static/js/runtime-main.dab91fbd.js.map",
+    "main.js": "/mingyan/static/js/main.1109511f.chunk.js",
+    "main.js.map": "/mingyan/static/js/main.1109511f.chunk.js.map",
+    "runtime-main.js": "/mingyan/static/js/runtime-main.bbf7d809.js",
+    "runtime-main.js.map": "/mingyan/static/js/runtime-main.bbf7d809.js.map",
     "static/css/2.047ecc0e.chunk.css": "/mingyan/static/css/2.047ecc0e.chunk.css",
     "static/js/2.432a1301.chunk.js": "/mingyan/static/js/2.432a1301.chunk.js",
     "static/js/2.432a1301.chunk.js.map": "/mingyan/static/js/2.432a1301.chunk.js.map",
-    "static/js/3.f5bd3f34.chunk.js": "/mingyan/static/js/3.f5bd3f34.chunk.js",
-    "static/js/3.f5bd3f34.chunk.js.map": "/mingyan/static/js/3.f5bd3f34.chunk.js.map",
+    "static/js/3.661b8e67.chunk.js": "/mingyan/static/js/3.661b8e67.chunk.js",
+    "static/js/3.661b8e67.chunk.js.map": "/mingyan/static/js/3.661b8e67.chunk.js.map",
     "index.html": "/mingyan/index.html",
     "static/css/2.047ecc0e.chunk.css.map": "/mingyan/static/css/2.047ecc0e.chunk.css.map",
     "static/css/main.57c4c912.chunk.css.map": "/mingyan/static/css/main.57c4c912.chunk.css.map",
@@ -18,10 +18,10 @@
     "static/media/font-awesome.min.css": "/mingyan/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dab91fbd.js",
+    "static/js/runtime-main.bbf7d809.js",
     "static/css/2.047ecc0e.chunk.css",
     "static/js/2.432a1301.chunk.js",
     "static/css/main.57c4c912.chunk.css",
-    "static/js/main.6a9c4730.chunk.js"
+    "static/js/main.1109511f.chunk.js"
   ]
 }
