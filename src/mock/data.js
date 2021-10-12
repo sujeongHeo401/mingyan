@@ -29,6 +29,12 @@
    */
   
   export const quotes = [
+    {
+      quote: "不知为不知是知也。",
+      pinyin: "bù zhī wèi bùzhī shì zhī yě",
+      krMean : "진정한 앎은 자신이 얼마나 모르는 지를 아는 것이다",
+      author: "孔子"
+    },
       {
         quote: "不知为不知是知也。",
         pinyin: "bù zhī wèi bùzhī shì zhī yě",
@@ -112,6 +118,12 @@
         pinyin: "gāngcái jiéshù le",
         krMean : "방금 끝났어",
         author: "无"
+      },
+      {
+        quote: "指手画脚",
+        pinyin: "zhishou-huajiao",
+        krMean : "이래라 저래라 하다",
+        author: "https://www.chosun.com/national/nie/chinese/2021/10/12/I76UAYYXGRB6XJHK2QNSFKLJ54/"
       },
       {
         quote: "刚才结束了",
