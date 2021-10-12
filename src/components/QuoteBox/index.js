@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { random } from "../../utils";
 import { colors, quotes, picture } from "../../mock/data.js";
+import { Route, Link } from 'react-router-dom';
 
 import "./styles.scss";
 
